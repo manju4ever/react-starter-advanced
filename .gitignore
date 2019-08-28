@@ -1,0 +1,18 @@
+# Folders to ignore
+node_modules/
+assets/
+build/
+dist/
+tmp/
+
+# hidden files/directories to ignore
+$*
+.swp
+.DS_Store
+.history/
+.vscode/
+.idea/
+
+# Other
+npm-debug.log
+jsconfig.json

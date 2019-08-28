@@ -1,0 +1,9 @@
+# Directories
+node_modules/
+src/__tests__/coverage/**/*
+dist/
+
+# Files to ignore
+jest.config.js
+*.config.js
+jsconfig.json
