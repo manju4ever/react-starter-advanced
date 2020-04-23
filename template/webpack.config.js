@@ -8,7 +8,7 @@ module.exports = {
     
     mode: 'production', //Defaults to production - Remove this for production builds
 
-    entry: __dirname + "/src/index.js",
+    entry: __dirname + "/index.js",
     output: {
         path: __dirname + "/dist",
         filename: "[name].[chunkhash].js",
