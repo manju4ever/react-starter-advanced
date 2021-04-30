@@ -1,4 +1,4 @@
-# React Starter Template
+# React Starter Template (2019 - 2020)
 
 #### No CRA (create-react-app) used !
 
