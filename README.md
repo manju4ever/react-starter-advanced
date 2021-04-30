@@ -11,6 +11,11 @@ This starter template has the boilerplate setup with:
 * Webpack with optimized settings (both for development and production)
 
 
+
+### How does it look once started ?
+
+![Demo](https://user-images.githubusercontent.com/9355984/116669890-bc1e9a00-a9bc-11eb-94ac-dee02263ecc3.png)
+
 ### Install Pre-requisites
 
 `$npm i`
