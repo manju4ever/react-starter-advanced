@@ -11,7 +11,9 @@
     <title><%= htmlWebpackPlugin.options.title %></title>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <!-- All react rendering happens within this div -->
+    </div>
     <script src="<%= htmlWebpackPlugin.files.chunks.main.entry %>"></script>
   </body>
 </html>

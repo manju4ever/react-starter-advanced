@@ -79,7 +79,7 @@ const webpackConfig = {
       filename: "style.[hash].css",
     }),
     new HtmlWebpackPlugin({
-      title: "Super Duper App 🎉",
+      title: "Dev - Super Duper App 🎉",
       template: "./index.tpl.ejs",
       filename: "index.html",
       inject: false,

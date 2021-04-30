@@ -4,7 +4,7 @@
   "description": "This is a completely hackable react starter template (no CRA)",
   "main": "index.js",
   "scripts": {
-    "start": "npx webpack-dev-server --config devpack.config.js",
+    "start": "npx webpack-dev-server --config webpack.development.js",
     "build": "npx webpack --progress --colors",
     "pretty": "prettier --write \"./**/*.{js,jsx,json}\""
   },
