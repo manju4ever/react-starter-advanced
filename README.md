@@ -4,11 +4,13 @@
 
 This starter template has the boilerplate setup with:
 
+- React v16+
 - React Router (v4+)
 - Redux
-- Redux Thunk + Axios
-- Material UI (Latest)
-- Webpack with optimized settings (both for development and production)
+- Redux Thunk
+- Axios
+- Material UI for React
+- Webpack (v4) with optimized settings (both for development and production)
 
 ### How does it look once started ?
 
