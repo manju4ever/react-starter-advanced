@@ -16,12 +16,12 @@ This starter template has the boilerplate setup with:
 
 ### Install Pre-requisites
 
-`$npm i`
+`npm i`
 
 ### Running with auto refresh / HMR mode
 
-`$npm run start`
+`npm run start`
 
 ### Build
 
-`$npm run build`
+`npm run build`
