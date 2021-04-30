@@ -1,9 +1,9 @@
 module.exports = ({ file }) => ({
-  parser: file.extname === '.sss' ? 'sugarss' : false,
+  parser: file.extname === ".sss" ? "sugarss" : false,
   plugins: {
-    'postcss-import': {},
-    'postcss-preset-env': {},
-     cssnano: {},
-     autoprefixer: {},
+    "postcss-import": {},
+    "postcss-preset-env": {},
+    cssnano: {},
+    autoprefixer: {},
   },
 });
