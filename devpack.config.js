@@ -29,6 +29,7 @@ const webpackConfig = {
     inline: true,
     hot: true,
     open: true,
+    overlay: true,
     historyApiFallback: true, //Support SPA routes e.g: react-router-dom
   },
 
@@ -78,7 +79,7 @@ const webpackConfig = {
       filename: "style.[hash].css",
     }),
     new HtmlWebpackPlugin({
-      title: "CSOD Admin 🎉",
+      title: "Super Duper App 🎉",
       template: "./index.tpl.ejs",
       filename: "index.html",
       inject: false,

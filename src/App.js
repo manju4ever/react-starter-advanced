@@ -41,6 +41,7 @@ const AppWithRouter = () => (
     <ConnectedRouter history={history}>
       <Switch>
         <Route render={() => <App />}></Route>
+        <Route path="/contact" component={Contact} />
       </Switch>
     </ConnectedRouter>
   </Provider>

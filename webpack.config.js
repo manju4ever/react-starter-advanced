@@ -63,7 +63,7 @@ module.exports = {
       filename: "style.[contenthash].css",
     }),
     new HtmlWebpackPlugin({
-      title: "CSOD Admin 🎉",
+      title: "Super Duper App 🎉",
       template: "./index.tpl.ejs",
       filename: "index.html",
       inject: false,
